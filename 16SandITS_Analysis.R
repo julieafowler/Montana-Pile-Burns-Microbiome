@@ -1,4 +1,6 @@
-#### Scripts for Montana Pile Burn Project - 16S Analyses ####
+#### Scripts for Montana Pile Burn Project - 16S & ITS Analyses ####
+
+## 16S used for all examples, exclude copy number analysis for ITS
 
 ## Written and compiled by Julie A. Fowler and Amelia R. Nelson
 
