@@ -1,6 +1,9 @@
-#### R Scripts for Montana Pile Burn Project - 16S Analyses ####
+#### R Scripts for Montana Pile Burn Project - 16S & ITS Analyses ####
 
 ## Written and compiled by Julie A. Fowler and Amelia R. Nelson
+
+## Examples in this document use 16S - replace with ITS files when needed 
+## Last analysis (16S rRNA copy numbers) is only applicable to 16S
 
 
 #### Package Loading ####
