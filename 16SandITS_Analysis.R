@@ -310,6 +310,9 @@ my_comparisons<-list(c('Ash','Organic'),c('Ash','Mineral'),c('Ash','Unburned Min
 my_comparisons_nocontrols<-list(c('Ash','Organic'),c('Ash','Mineral'),c('Organic','Mineral'))
 my_comparisons_sites<-list(c("Lonesome Wood Lake", "Lonesome Wood Ridge"), c("Lonesome Wood Lake", "Rendezvous"), c("Lonesome Wood Ridge", "Rendezvous"))
 
+                                           
+## Using the following code example for pairwise adjustments of Wilcoxon tests in boxplots:
+## pairwise.wilcox.test(map_file$Shannon, map_file$Layer, p.adjust.method = "bonf")                                           
 
 ## Shannons
 
