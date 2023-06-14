@@ -24,6 +24,11 @@ setwd("/Users/juliefowler/OneDrive - Colostate/PhD Work/Studies/Burn Piles/Monta
 map_file <- read.delim("Chem_LessVariables.txt",header = T,row.names=1,check.names=FALSE)
 
 
+
+## Using the following code example for pairwise adjustments of Wilcoxon tests in boxplots:
+## pairwise.wilcox.test(map_file$Shannon, map_file$Layer, p.adjust.method = "bonf")
+
+
 #### Boxplots w/ Tests of Significance ####
 
 ## Ordering variable for ggplot
