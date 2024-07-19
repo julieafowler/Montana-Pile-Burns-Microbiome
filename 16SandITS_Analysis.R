@@ -2,7 +2,7 @@
 
 ## 16S used for all examples, exclude copy number analysis for ITS
 
-## Written and compiled by Julie A. Fowler, Amelia R. Nelson, and Dr. Emily K. Bechtold
+## Written and compiled by Julie A. Fowler, Dr. Amelia R. Nelson, and Dr. Emily K. Bechtold
 
 
 #### Package Loading ####
